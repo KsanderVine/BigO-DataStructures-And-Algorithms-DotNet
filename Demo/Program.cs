@@ -1,12 +1,4 @@
-﻿using DataStructures;
-using SearchAlgorithms;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-
-namespace Demo
+﻿namespace Demo
 {
     internal class Program
     {
